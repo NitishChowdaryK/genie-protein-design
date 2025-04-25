@@ -130,7 +130,4 @@ downloads and preprocesses the data.
 
 ---
 
-## ⚠️ Disclaimer
 
-This is a **student reproduction** for academic use. The original Genie codebase is available at:  
-👉 https://github.com/aqlaboratory/genie
