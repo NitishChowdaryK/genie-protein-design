@@ -1,5 +1,5 @@
 
-# 🧬 Genie (Student Replication)
+### 🧬 Genie (Student Replication)
 
 This is a student replication of **Genie: Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**, originally presented at ICML 2023 by Yeqing Lin and Mohammed AlQuraishi. This project reproduces and extends the model for generative protein backbone design using denoising diffusion models and SE(3)-equivariant neural networks.
 
